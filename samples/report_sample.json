@@ -1,0 +1,56 @@
+{
+  "report_metadata": {
+    "tool": "LDSI",
+    "tool_version": "1.0",
+    "generated_at": "2026-11-03 12:55:25"
+  },
+  "system": {
+    "hostname": "Dell",
+    "os_name": "Windows",
+    "os_release": "11",
+    "os_version": "10.0.26200",
+    "python_version": "3.14.8"
+  },
+  "network": [
+    {
+      "adapter": "Ethernet",
+      "ipv4": "169.254.244.92",
+      "netmask": "255.255.0.0"
+    },
+    {
+      "adapter": "Local Area Connection",
+      "ipv4": "169.254.141.75",
+      "netmask": "255.255.0.0"
+    },
+    {
+      "adapter": "Local Area Connection* 1",
+      "ipv4": "169.254.127.252",
+      "netmask": "255.255.0.0"
+    },
+    {
+      "adapter": "Local Area Connection* 2",
+      "ipv4": "169.254.2.59",
+      "netmask": "255.255.0.0"
+    },
+    {
+      "adapter": "VMware Network Adapter VMnet1",
+      "ipv4": "192.168.170.1",
+      "netmask": "255.255.255.0"
+    },
+    {
+      "adapter": "VMware Network Adapter VMnet8",
+      "ipv4": "169.254.43.74",
+      "netmask": "255.255.0.0"
+    },
+    {
+      "adapter": "Wi-Fi",
+      "ipv4": "10.48.26.141",
+      "netmask": "255.255.248.0"
+    },
+    {
+      "adapter": "Loopback Pseudo-Interface 1",
+      "ipv4": "127.0.0.1",
+      "netmask": "255.0.0.0"
+    }
+  ]
+}
